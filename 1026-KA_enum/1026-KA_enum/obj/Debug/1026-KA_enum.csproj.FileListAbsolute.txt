@@ -1,7 +1,0 @@
-C:\Users\filip\source\repos\1026-KA_enum\1026-KA_enum\obj\Debug\1026-KA_enum.csprojAssemblyReference.cache
-C:\Users\filip\source\repos\1026-KA_enum\1026-KA_enum\obj\Debug\1026-KA_enum.csproj.CoreCompileInputs.cache
-C:\Users\filip\source\repos\1026-KA_enum\1026-KA_enum\bin\Debug\1026-KA_enum.exe.config
-C:\Users\filip\source\repos\1026-KA_enum\1026-KA_enum\bin\Debug\1026-KA_enum.exe
-C:\Users\filip\source\repos\1026-KA_enum\1026-KA_enum\bin\Debug\1026-KA_enum.pdb
-C:\Users\filip\source\repos\1026-KA_enum\1026-KA_enum\obj\Debug\1026-KA_enum.exe
-C:\Users\filip\source\repos\1026-KA_enum\1026-KA_enum\obj\Debug\1026-KA_enum.pdb

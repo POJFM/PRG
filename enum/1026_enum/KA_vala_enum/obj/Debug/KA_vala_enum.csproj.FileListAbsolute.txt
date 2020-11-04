@@ -1,7 +1,0 @@
-C:\Users\Jiří\Desktop\school\PRG\KA_vala_enum\KA_vala_enum\bin\Debug\KA_vala_enum.exe.config
-C:\Users\Jiří\Desktop\school\PRG\KA_vala_enum\KA_vala_enum\bin\Debug\KA_vala_enum.exe
-C:\Users\Jiří\Desktop\school\PRG\KA_vala_enum\KA_vala_enum\bin\Debug\KA_vala_enum.pdb
-C:\Users\Jiří\Desktop\school\PRG\KA_vala_enum\KA_vala_enum\obj\Debug\KA_vala_enum.csprojAssemblyReference.cache
-C:\Users\Jiří\Desktop\school\PRG\KA_vala_enum\KA_vala_enum\obj\Debug\KA_vala_enum.csproj.CoreCompileInputs.cache
-C:\Users\Jiří\Desktop\school\PRG\KA_vala_enum\KA_vala_enum\obj\Debug\KA_vala_enum.exe
-C:\Users\Jiří\Desktop\school\PRG\KA_vala_enum\KA_vala_enum\obj\Debug\KA_vala_enum.pdb
