@@ -1,0 +1,16 @@
+C:\Users\filip\source\repos\sikora-xml\sikora-xml\obj\Debug\sikora-xml.csprojAssemblyReference.cache
+C:\Users\filip\source\repos\sikora-xml\sikora-xml\obj\Debug\sikora_xml.Properties.Resources.resources
+C:\Users\filip\source\repos\sikora-xml\sikora-xml\obj\Debug\sikora-xml.csproj.GenerateResource.cache
+C:\Users\filip\source\repos\sikora-xml\sikora-xml\obj\Debug\sikora-xml.csproj.CoreCompileInputs.cache
+C:\Users\filip\source\repos\sikora-xml\sikora-xml\obj\Debug\sikora_xml.frm_About.resources
+C:\Users\filip\source\repos\sikora-xml\sikora-xml\obj\Debug\sikora_xml.frm_Main.resources
+C:\Users\filip\source\repos\sikora-xml\sikora-xml\obj\Debug\sikora_xml.frm_New.resources
+C:\Users\filip\source\repos\sikora-xml\sikora-xml\obj\Debug\sikora_xml.frm_Result.resources
+C:\Users\filip\source\repos\sikora-xml\sikora-xml\obj\Debug\sikora_xml.frm_Error.resources
+C:\Users\filip\source\repos\sikora-xml\sikora-xml\obj\Debug\sikora_xml.frm_Sort.resources
+C:\Users\filip\source\repos\sikora-xml\sikora-xml\obj\Debug\sikora_xml.frm_Select.resources
+C:\Users\filip\source\repos\sikora-xml\sikora-xml\bin\Debug\KnihaDB.exe.config
+C:\Users\filip\source\repos\sikora-xml\sikora-xml\bin\Debug\KnihaDB.exe
+C:\Users\filip\source\repos\sikora-xml\sikora-xml\bin\Debug\KnihaDB.pdb
+C:\Users\filip\source\repos\sikora-xml\sikora-xml\obj\Debug\KnihaDB.exe
+C:\Users\filip\source\repos\sikora-xml\sikora-xml\obj\Debug\KnihaDB.pdb
