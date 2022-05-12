@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sklad>
+  <produkt ID="0">
+    <nazevZbozi>Pantofle</nazevZbozi>
+    <pocetKs>25</pocetKs>
+    <cenaKs>419.99</cenaKs>
+    <expirace>12/02/2020</expirace>
+  </produkt>
+  <produkt ID="1">
+    <nazevZbozi>Bačkory</nazevZbozi>
+    <pocetKs>45</pocetKs>
+    <cenaKs>420</cenaKs>
+    <expirace>02/03/2020</expirace>
+  </produkt>
+  <produkt ID="2">
+    <nazevZbozi>Sandále</nazevZbozi>
+    <pocetKs>66</pocetKs>
+    <cenaKs>68.99</cenaKs>
+    <expirace>21/01/2020</expirace>
+  </produkt>
+</sklad>
